@@ -1,0 +1,70 @@
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login page.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\bin\Debug\login page.exe
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\bin\Debug\login page.pdb
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login page.exe
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login page.pdb
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form2.resources
+c:\users\dell\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.form3.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form4.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form5.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login page.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form6.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form7.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\bin\Debug\mno.accdb
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\bin\Debug\login page.exe.config
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form9.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form10.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\bin\Debug\complaint.accdb
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form8.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form11.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\login page\login page\obj\x86\Debug\login_page.Form12.resources
+F:\login page\login page\bin\Debug\login page.exe.config
+F:\login page\login page\obj\x86\Debug\login page.exe
+F:\login page\login page\obj\x86\Debug\login page.pdb
+F:\login page\login page\bin\Debug\complaint.accdb
+F:\login page\login page\bin\Debug\mno.accdb
+F:\login page\login page\bin\Debug\login page.exe
+F:\login page\login page\bin\Debug\login page.pdb
+F:\login page\login page\obj\x86\Debug\login page.csprojResolveAssemblyReference.cache
+F:\login page\login page\obj\x86\Debug\login_page.Form1.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form10.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form11.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form12.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form2.resources
+F:\login page\login page\obj\x86\Debug\login_page.form3.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form4.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form5.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form6.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form7.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form8.resources
+F:\login page\login page\obj\x86\Debug\login_page.Form9.resources
+F:\login page\login page\obj\x86\Debug\login_page.Properties.Resources.resources
+F:\login page\login page\obj\x86\Debug\login page.csproj.GenerateResource.Cache
+D:\OOPS LABS\login page\login page\bin\Debug\login page.exe.config
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login page.exe
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login page.pdb
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login page.csprojResolveAssemblyReference.cache
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form1.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form10.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form11.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form12.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form2.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.form3.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form4.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form5.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form6.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form7.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form8.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form9.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Properties.Resources.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login page.csproj.GenerateResource.Cache
+D:\OOPS LABS\login page\login page\bin\Debug\complaint.accdb
+D:\OOPS LABS\login page\login page\bin\Debug\mno.accdb
+D:\OOPS LABS\login page\login page\bin\Debug\login page.exe
+D:\OOPS LABS\login page\login page\bin\Debug\login page.pdb
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form13.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.amain.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form15.resources
+D:\OOPS LABS\login page\login page\obj\x86\Debug\login_page.Form16.resources
